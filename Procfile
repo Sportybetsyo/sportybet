@@ -1,0 +1,1 @@
+worker: python telegram_betting_bot.py
